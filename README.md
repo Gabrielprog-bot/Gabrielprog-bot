@@ -5,7 +5,7 @@
 #### (Hello, my name is Gabriel, this is my portfolio and feel free.)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GagoBraboH2oh11&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielprog-bot&show_icons=true&theme=tokyonight)
 
 <fieldset style="border: 1px solid lightgray">
 
@@ -29,7 +29,7 @@
 
 ### Quer ver um repositorio meu? :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh11&repo=my-codeing-save)](https://github.com/GagoBraboH2oh11/my-codeing-save)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielprog-bot&repo=)](https://github.com/Gabrielprog-bot/)
 
 <hr>
 <div> 
@@ -51,4 +51,4 @@
 ### Essa são minhas estatísticas (isso pode mudar bastante!)
 (That's my stats (that might a lot!))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh11&langs_count=8)](https://github.com/GagoBraboH2oh11/my-codeing-save)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielprog-bot&langs_count=8)](https://github.com/Gabrielprog-bot/)
